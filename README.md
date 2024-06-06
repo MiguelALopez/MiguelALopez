@@ -38,20 +38,20 @@ possibilities.
 | <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=l9a5tcSnBwcf&format=png&color=000000"> Angular    |    Advanced     |   6   |
 | <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000"> NodeJs     |  Intermediate   |   6   |
 | <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000"> React      |  Intermediate   |   1   |
-| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000"> NestJs     |      Basic      |   1   |
+| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000"> NextJS     |      Basic      |   1   |
 </td>
 <td>
 
-| Tool                                                                                                             | Knowledge level | Years |
-|------------------------------------------------------------------------------------------------------------------|:---------------:|:-----:|
-| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=12599&format=png&color=FFFFFF"> Github        |     Advance     |  10   |
-| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=k4SAqzJXFbZY&format=png&color=000000"> Scrum  |     Advance     |   6   |
-| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000"> Linux         |  Intermediate   |   5   |
-| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=3VGtaw5gCc8T&format=png&color=000000"> Redux  |     Advance     |   4   |
-| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000"> Jira   |  Intermediate   |   4   |
-| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=39292&format=png&color=000000"> Jenkins       |      Basic      |   4   |
+| Tool                                                                                                              | Knowledge level | Years |
+|-------------------------------------------------------------------------------------------------------------------|:---------------:|:-----:|
+| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=12599&format=png&color=FFFFFF"> Github         |     Advance     |  10   |
+| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000"> Linux          |  Intermediate   |   5   |
+| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=3VGtaw5gCc8T&format=png&color=000000"> Redux   |     Advance     |   4   |
+| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000"> Jira    |  Intermediate   |   4   |
+| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=39292&format=png&color=000000"> Jenkins        |      Basic      |   4   |
 | <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=FFFFFF"> Open AI |  Intermediate   |   1   |
-| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000"> PostgreSQL    |      Basic      |   1   |
+| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000"> PostgreSQL     |      Basic      |   1   |
+| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=GgYgR410AUVo&format=png&color=000000"> Vercel  |      Basic      |   1   |
 
 </td>
 </table>
@@ -60,6 +60,7 @@ possibilities.
 <a href="https://rxjs.dev/"><img alt="RXJS" src="https://img.shields.io/badge/RXJS-purple?style=for-the-badge&logo=ReactiveX&logoSize=auto&link=https%3A%2F%2Frxjs.dev%2F"></a>
 <a href="https://www.git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-tomato?style=for-the-badge&logo=Git&logoColor=white&logoSize=auto"></a>
 <a href="https://gsap.com/"><img alt="GSAP" src="https://img.shields.io/badge/GSAP-blueviolet?style=for-the-badge&logoSize=auto"></a>
+<a href="https://www.python.org/"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-DA214B?style=for-the-badge&logo=NestJS&logoColor=white&logoSize=auto"></a>
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white&logoSize=auto"></a>
 <a href="https://www.djangoproject.com/"><img alt="DJango" src="https://img.shields.io/badge/DJango-darkgreen?style=for-the-badge&logo=Django&logoColor=white&logoSize=auto"></a>
 <a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/Java-royalblue?style=for-the-badge&logo=java&logoColor=white&logoSize=auto"></a>
@@ -67,7 +68,7 @@ possibilities.
 <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-mediumseagreen?style=for-the-badge&logo=MongoDB&logoColor=white"></a>
 <a href="https://wordpress.org/"><img alt="Wordpress" src="https://img.shields.io/badge/WordPress-2A799E?style=for-the-badge&logo=WordPress&logoColor=white"></a>
 <a href="https://www.hostinger.com/"><img alt="Hostinger" src="https://img.shields.io/badge/Hostinger-674CC4?style=for-the-badge&logo=Hostinger&logoColor=white"></a>
-<a href="https://vercel.com/"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=Vercel&logoColor=white"></a>
+<a href="https://www.scrum.org/resources/what-scrum-module"><img alt="Scrum" src="https://img.shields.io/badge/Scrum-025193?style=for-the-badge&logo=Stripe&logoColor=white"></a>
 
 ## My roles in the industry
 | Role                      | Year        |
