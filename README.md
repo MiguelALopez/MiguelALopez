@@ -19,7 +19,7 @@ possibilities.
 - 🏔️ I love being in nature
 - ⚡ Interesting fact: I traveled throughout South America by car from north to south
 
-## Principal TechStack:
+## Main TechStack:
 <table>
 <thead>
 <tr>
@@ -29,16 +29,16 @@ possibilities.
 </thead>
 <td>
 
-| Technology                                                                                                           |  Knowledge level  | Years |
-|----------------------------------------------------------------------------------------------------------------------|:-----------------:|:-----:|
-| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"> HTML5             |     Advanced      |   8   |
-| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"> CSS3 / SASS       |     Advanced      |   8   |
-| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"> Javascript       |     Advanced      |   8   |
-| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000"> Typescript |     Advanced      |   6   |
-| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=l9a5tcSnBwcf&format=png&color=000000"> Angular    |     Advanced      |   6   |
-| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000"> NodeJs     |   Intermediate    |   6   |
-| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000"> React      |   Intermediate    |   1   |
-| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000"> NestJs     |   Intermediate    |   1   |
+| Technology                                                                                                           | Knowledge level | Years |
+|----------------------------------------------------------------------------------------------------------------------|:---------------:|:-----:|
+| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"> HTML5             |    Advanced     |   8   |
+| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"> CSS3 / SASS       |    Advanced     |   8   |
+| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"> Javascript       |    Advanced     |   8   |
+| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000"> Typescript |    Advanced     |   6   |
+| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=l9a5tcSnBwcf&format=png&color=000000"> Angular    |    Advanced     |   6   |
+| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000"> NodeJs     |  Intermediate   |   6   |
+| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000"> React      |  Intermediate   |   1   |
+| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000"> NestJs     |      Basic      |   1   |
 </td>
 <td>
 
@@ -56,7 +56,18 @@ possibilities.
 </td>
 </table>
 
-## Other technologies
+### Other technologies
+<a href="https://rxjs.dev/"><img alt="RXJS" src="https://img.shields.io/badge/RXJS-purple?style=for-the-badge&logo=ReactiveX&logoSize=auto&link=https%3A%2F%2Frxjs.dev%2F"></a>
+<a href="https://www.git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-tomato?style=for-the-badge&logo=Git&logoColor=white&logoSize=auto"></a>
+<a href="https://gsap.com/"><img alt="GSAP" src="https://img.shields.io/badge/GSAP-blueviolet?style=for-the-badge&logoSize=auto"></a>
+<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white&logoSize=auto"></a>
+<a href="https://www.djangoproject.com/"><img alt="DJango" src="https://img.shields.io/badge/DJango-darkgreen?style=for-the-badge&logo=Django&logoColor=white&logoSize=auto"></a>
+<a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/Java-royalblue?style=for-the-badge&logo=java&logoColor=white&logoSize=auto"></a>
+<a href="https://isocpp.org/"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-dodgerblue?style=for-the-badge&logo=C%2B%2B&logoColor=white&logoSize=auto"></a>
+<a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-mediumseagreen?style=for-the-badge&logo=MongoDB&logoColor=white"></a>
+<a href="https://wordpress.org/"><img alt="Wordpress" src="https://img.shields.io/badge/WordPress-2A799E?style=for-the-badge&logo=WordPress&logoColor=white"></a>
+<a href="https://www.hostinger.com/"><img alt="Hostinger" src="https://img.shields.io/badge/Hostinger-674CC4?style=for-the-badge&logo=Hostinger&logoColor=white"></a>
+<a href="https://vercel.com/"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=Vercel&logoColor=white"></a>
 
 ## My roles in the industry
 | Role                      | Year        |
@@ -69,14 +80,8 @@ possibilities.
 ## Git Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=MiguelALopez&theme=dark&exclude_days=Sun%2CSat&background=EB545400&currStreakNum=CC7200&sideNums=CC7200&sideLabels=CC7200)](https://git.io/streak-stats)
 
-<!--
-Years of service
-
-commits in this year
-
-tech stats
--->
 
 ### References
 Icons from  <a target="_blank" href="https://icons8.com">Icons8</a>
 
+States from <a href="https://github.com/denvercoder1/github-readme-streak-stats">GitHub streak stats</a>
