@@ -1,5 +1,6 @@
-# Hi there welcome to my code vault, I'm Miguel 👋
-Senior Software Engineer - Front-End / FullStack
+<!-- # Hi there welcome to my code vault, I'm Miguel 👋
+Senior Software Engineer - Front-End / FullStack -->
+<img src="assets/gh_banner.png">
 
 [![LinkedIn](https://img.shields.io/badge/-MiguelALopez-378CE7?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguelalopezf/)](https://www.linkedin.com/in/miguelalopezf/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-3E4750.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://MiguelALopez.com/)](https://MiguelALopez.com)
