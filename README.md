@@ -66,7 +66,7 @@ possibilities.
 | Junior Software developer | 2017 - 2018 |
 
 ## Git Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=MiguelALopez&theme=dark&exclude_days=Sun%2CSat&background=EB545400)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MiguelALopez&theme=dark&exclude_days=Sun%2CSat&background=EB545400&currStreakNum=CC7200&sideNums=CC7200&sideLabels=CC7200)](https://git.io/streak-stats)
 
 <!--
 Years of service
