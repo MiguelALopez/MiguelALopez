@@ -85,4 +85,4 @@ possibilities.
 ### References
 Icons from  <a target="_blank" href="https://icons8.com">Icons8</a>
 
-States from <a href="https://github.com/denvercoder1/github-readme-streak-stats">GitHub streak stats</a>
+Stats from <a href="https://github.com/denvercoder1/github-readme-streak-stats">GitHub streak stats</a>
