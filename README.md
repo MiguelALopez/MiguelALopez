@@ -4,7 +4,7 @@ Senior Software Engineer - Front-End / FullStack -->
 
 [![LinkedIn](https://img.shields.io/badge/-MiguelALopez-378CE7?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguelalopezf/)](https://www.linkedin.com/in/miguelalopezf/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-3E4750.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://MiguelALopez.com/)](https://MiguelALopez.com)
-[![Curriculum](https://img.shields.io/badge/CV-4989CC?style=flat-square&logo=Read.cv&link=assets%2FMiguel_Lopez_CV.pdf)](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:9d6e0ef2-05fc-4d43-973c-83027291a0d2)
+[![Curriculum](https://img.shields.io/badge/CV-4989CC?style=flat-square&logo=Read.cv&link=assets%2FMiguel_Lopez_CV.pdf)](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:9cca76c5-faf2-40ce-8491-1d577b46281f)
 
 <!-- Banner here -->
 ## About Me
