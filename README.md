@@ -29,16 +29,73 @@ possibilities.
 </thead>
 <td>
 
-| Technology                                                                                                           | Knowledge level | Years |
-|----------------------------------------------------------------------------------------------------------------------|:---------------:|:-----:|
-| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"> HTML5             |    Advanced     |   8   |
-| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"> CSS3 / SASS       |    Advanced     |   8   |
-| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"> Javascript       |    Advanced     |   8   |
-| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000"> Typescript |    Advanced     |   6   |
-| <img style="width: 20px;" src="assets/icons8-angular-24.png"> Angular                                                |    Advanced     |   6   |
-| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000"> NodeJs     |  Intermediate   |   4   |
-| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000"> React      |  Intermediate   |   1   |
-| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000"> NextJS     |  Intermediate   |   1   |
+<table style="border-collapse: collapse; width: 100%; text-align: left;">
+  <thead>
+    <tr>
+      <th >Technology</th>
+      <th>Knowledge Level</th>
+      <th>Years</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="display: flex; gap: 2px;">
+        <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML5"> HTML5
+      </td>
+      <td>Advanced</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td style="display: flex; gap: 2px;">
+        <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS3 / SASS"> CSS3 / SASS
+      </td>
+      <td>Advanced</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td style="display: flex; gap: 2px;">
+        <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="Javascript"> Javascript
+      </td>
+      <td>Advanced</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td style="display: flex; gap: 2px;">
+        <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="Typescript"> Typescript
+      </td>
+      <td>Advanced</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td style="display: flex; gap: 2px;">
+        <img style="width: 20px;" src="assets/icons8-angular-24.png" alt="Angular"> Angular
+      </td>
+      <td>Advanced</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td style="display: flex; gap: 2px;">
+        <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="NodeJs"> NodeJs
+      </td>
+      <td>Intermediate</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td style="display: flex; gap: 2px;">
+        <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="React"> React
+      </td>
+      <td>Intermediate</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td style="display: flex; gap: 2px;">
+        <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" alt="NextJS"> NextJS
+      </td>
+      <td>Intermediate</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
 </td>
 <td>
 
