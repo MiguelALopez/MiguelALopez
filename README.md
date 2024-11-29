@@ -35,10 +35,10 @@ possibilities.
 | <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"> CSS3 / SASS       |    Advanced     |   8   |
 | <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"> Javascript       |    Advanced     |   8   |
 | <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000"> Typescript |    Advanced     |   6   |
-| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=l9a5tcSnBwcf&format=png&color=000000"> Angular    |    Advanced     |   6   |
-| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000"> NodeJs     |  Intermediate   |   6   |
+| <img style="width: 20px;" src="assets/icons8-angular-24.png"> Angular                                                |    Advanced     |   6   |
+| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000"> NodeJs     |  Intermediate   |   4   |
 | <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000"> React      |  Intermediate   |   1   |
-| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000"> NextJS     |      Basic      |   1   |
+| <img style="width: 20px;" src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000"> NextJS     |  Intermediate   |   1   |
 </td>
 <td>
 
