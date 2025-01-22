@@ -13,7 +13,7 @@ recently transitioned to a full-stack role. My passion lies in leveraging techno
 Recently, I discovered the transformative potential of AI, and I am now an avid advocate for its use in opening new
 possibilities.
 
-- 🔭 I’m currently working on an app to connect professional services
+- 🔭 I’m currently working on an app to make travelers' lives easier
 - 🌱 I’m currently learning about Prompt Engineering for Developers
 - 🖼️ I am a photography lover
 - 🏔️ I love being in nature
@@ -79,7 +79,7 @@ possibilities.
 | Junior Software developer | 2017 - 2018 |
 
 ## Git Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=MiguelALopez&theme=dark&exclude_days=Sun%2CSat&background=EB545400&currStreakNum=CC7200&sideNums=CC7200&sideLabels=CC7200)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=MiguelALopez&theme=dark&exclude_days=Sun%2CSat&background=EB545400&currStreakNum=CC7200&sideNums=CC7200&sideLabels=CC7200)](https://git.io/streak-stats)
 
 
 ### References
